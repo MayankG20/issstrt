@@ -1,2 +1,2 @@
 # issstrt
-Sample repository for ISS LAB
+Sample repository for ISS LAB.
